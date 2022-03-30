@@ -1,9 +1,10 @@
 ### My Github Stats!
-Uses https://github.com/jstrieb/github-stats
+
 ![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/overview.svg) ![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/languages.svg)
 
+Uses https://github.com/jstrieb/github-stats
 
-
+Currently looking for Software Engineering internships/offers, let's talk!
 <!--
 **AjayGanesh02/AjayGanesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
