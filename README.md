@@ -1,5 +1,5 @@
 ### My Github Stats!
-
+Uses https://github.com/jstrieb/github-stats
 ![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/overview.svg) ![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/languages.svg)
 
 
