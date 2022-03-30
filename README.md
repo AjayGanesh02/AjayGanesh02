@@ -1,8 +1,8 @@
 ### My Github Stats!
 
-![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/overview.svg) ![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/languages.svg)
 
-![](https://github.com/AjayGanesh02/github-stats/blob/master/generated/languages.svg)
+
 
 <!--
 **AjayGanesh02/AjayGanesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
