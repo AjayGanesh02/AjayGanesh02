@@ -4,7 +4,9 @@
 
 Uses https://github.com/jstrieb/github-stats
 
-Currently looking for Software Engineering internships/offers, let's talk!
+Currently looking for Software Engineering internships/offers, [Here's my resume](https://drive.google.com/file/d/1JzcLmATJk5ZUrmwT2fgBv2oNbY5_uhf0/view?usp=sharing)!
+
+Feel free to reach out!
 <!--
 **AjayGanesh02/AjayGanesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
