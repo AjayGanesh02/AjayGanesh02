@@ -7,7 +7,7 @@
 Uses https://github.com/jstrieb/github-stats
 
 ### About Me
-Hey! I'm a rising Junior in the University of Michigan College of Engineering, studying CS. Take a look at some of my projects below, or at my portfolio site linked in the sidebar. 
+Hey! I'm a Junior in the University of Michigan College of Engineering, studying CS. Take a look at some of my projects below, or at my portfolio site linked in the sidebar. 
 Currently looking for Software Engineering internships/offers, [Here's my resume](https://drive.google.com/file/d/1JzcLmATJk5ZUrmwT2fgBv2oNbY5_uhf0/view?usp=sharing)!
 
 Some of my passions include fashion and listening to R&B. Check out my Spotify [here](https://open.spotify.com/user/224czyl7a6dnrgduovxrvimxi?si=595db2b0ace84be4).
